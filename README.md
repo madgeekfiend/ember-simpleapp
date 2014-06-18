@@ -1,6 +1,6 @@
 # Simpleapp
 
-This is for the tutorial found at [http://www.codeomnib.us/ember-cli-beginner-tutorial/]. This will take you through the steps of creating an app using Ember CLI. 
+This is for the tutorial found at http://www.codeomnib.us/ember-cli-beginner-tutorial/. This will take you through the steps of creating an app using Ember CLI. 
 
 ## Installation
 
